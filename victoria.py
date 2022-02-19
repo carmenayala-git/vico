@@ -1,0 +1,1 @@
+print('Victoria is the best in the world!')
